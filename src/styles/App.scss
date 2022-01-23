@@ -1,0 +1,19 @@
+$color-1: #557195;
+$color-2: #7395AE;
+$color-3: #8caca5;
+$color-4: #5D5C61;
+$color-5: #B1A296;
+
+.navbar {
+  background-color: $color-1;
+  height: 100vh;
+  
+  .nav-item {
+    padding: 1em;
+    &:hover {
+      background-color: $color-3;
+      color: black;
+      cursor: pointer;
+    }
+  }
+}

@@ -1,0 +1,15 @@
+.navbar {
+  background-color: #557195;
+  height: 100vh;
+}
+
+.navbar .nav-item {
+  padding: 1em;
+}
+
+.navbar .nav-item:hover {
+  background-color: #8caca5;
+  color: black;
+  cursor: pointer;
+}
+/*# sourceMappingURL=App.css.map */
